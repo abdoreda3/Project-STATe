@@ -435,11 +435,14 @@ header ul.is-sticky li a.active {
 
 #testimonials h2 {
     text-align: center;
+    
 }
 
 #testimonials-slider .slick-slide {
     text-align: center;
 }
+
+
 
 #testimonials-slider blockquote {
     font-size: 1.5rem;
@@ -451,12 +454,14 @@ header ul.is-sticky li a.active {
 #testimonials-slider .testimonials-caption {
     width: 200px;
     margin: 0 auto;
+    
 }
 
 #testimonials-slider .testimonials-caption img {
     float: left;
     border-radius: 30px;
     width: 60px;
+   
 }
 
 .testimonials-caption p {
@@ -496,6 +501,8 @@ header ul.is-sticky li a.active {
     padding: 3rem;
     box-sizing: border-box;
     height: 0%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
 }
 
 #form-container h3 {
@@ -536,6 +543,8 @@ header ul.is-sticky li a.active {
     padding: 1.5rem;
     box-sizing: border-box;
     height: 0%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
 }
 
 #address-container label {
